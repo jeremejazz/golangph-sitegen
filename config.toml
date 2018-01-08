@@ -1,7 +1,7 @@
-baseurl = "https://username.github.io"
+baseurl = "http://golangph.com"
 DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+
+title = "Golang Philippines"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
