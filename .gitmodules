@@ -1,3 +1,9 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "themes/kube"]
+	path = themes/kube
+	url = https://github.com/jeblister/kube.git
+[submodule "themes/hugo-bootstrap-premium"]
+	path = themes/hugo-bootstrap-premium
+	url = https://github.com/appernetic/hugo-bootstrap-premium.git
